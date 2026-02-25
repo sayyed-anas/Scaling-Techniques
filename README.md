@@ -1,4 +1,4 @@
-# 📊 Feature Scaling — Standardization & Min-Max Scaling
+# Feature Scaling — Standardization & Min-Max Scaling
 
 This repository demonstrates **Feature Scaling techniques** used in Machine Learning to normalize numerical data.  
 I implemented two separate examples:
@@ -24,7 +24,7 @@ Without scaling:
 **File:** `Standardization-Scaling.ipynb`  
 **Dataset:** `Social_Network_Ads.csv`
 
-### 📌 Formula
+### Formula
 \[
 Z = \frac{X - \mu}{\sigma}
 \]
